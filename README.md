@@ -1,4 +1,4 @@
-# Generateur-MDP
+# Generateur-MDP [![GitHub stars](https://img.shields.io/github/stars/Yoyo1243/Generateur-MDP?style=social)](https://github.com/Yoyo1243/Generateur-MDP/stargazers)
 ## Description
 Mon script permet de générer un mot de passe avec ou sans symbole.
 
