@@ -1,4 +1,4 @@
-# Generateur-MD
+# Generateur-MDP
 ## Description
 Mon script permet de générer un mot de passe avec ou sans symbole.
 
