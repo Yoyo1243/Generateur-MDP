@@ -4,7 +4,7 @@ Mon script permet de générer un mot de passe avec ou sans symbole.
 
 ## Installation du module
 
-:warning: À effectuer seulement si vous utilisez le fichier : [generateur_de_mdp-TKINTER-beta.py](https://github.com/Yoyo1243/Generateur-MDP/blob/main/generateur_de_mdp-CMD.py
+:warning: À effectuer seulement si vous utilisez le fichier : [generateur_de_mdp-TKINTER-beta.py](https://github.com/Yoyo1243/Generateur-MDP/blob/main/generateur_de_mdp-CMD.py)
 
 Vous aurez besoin de [pip3](https://pip.pypa.io/en/stable/) pour installer les packaes.
 
