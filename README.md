@@ -1,34 +1,35 @@
 # Generateur-MDP
+## Description
+Mon script permet de générer un mot de passe avec ou sans symbole.
 
-Foobar is a Python library for dealing with word pluralization.
+## Installation du module
 
-## Installation
+:warning: À effectuer seulement si vous utilisez le fichier : [generateur_de_mdp-TKINTER-beta.py](../blob/master/LICENSE)
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Vous aurez besoin de [pip3](https://pip.pypa.io/en/stable/) pour installer les packaes.
 
 ```bash
-pip install foobar
+pip3 install termcolor
 ```
 
-## Usage
+## Usage Linux & OS X
 
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+```bash
+cd Generateur-MDP
 ```
+Loger vous dans le dossier.
+```bash
+ls
+```
+Afficher tout son contenu.
+```bash
+python3 [fichier.py]
+```
+choisissez votre fchier parmi la sortie de `ls`
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
+## Sources
+La plupart du projet a été fait par mes soins cepandant je me suis aidé de différents sources ;
+[Graven](https://www.youtube.com/watch?v=N4M4W7JPOL4),
+[Raspberry'Pi](https://projects.raspberrypi.org/fr-FR/projects/password-generator/3#:~:text=Cr%C3%A9er%20un%20compte-,Caract%C3%A8res%20al%C3%A9atoires,devras%20importer%20le%20module%20random%20.)
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
